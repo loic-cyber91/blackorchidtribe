@@ -106,6 +106,24 @@ Aussi en V2.2 : « Fête Nationale » (sans « Belge ») dans les chips live ; p
 - La section `intention` reste en français dans les trois fichiers (la page candidature est
   verrouillée en fr pour le jury) ; les citations presse sont traduites en EN/NL (source citée).
 
+## Déploiement (17/07/2026)
+
+- **Site en ligne** : https://loic-cyber91.github.io/blackorchidtribe/ (GitHub Pages, branche main,
+  dépôt public `loic-cyber91/blackorchidtribe`). Candidature :
+  https://loic-cyber91.github.io/blackorchidtribe/candidature.html
+- **Publier une mise à jour** = commit + `git push` (Pages redéploie automatiquement en ~1 min).
+- Le dépôt privé `loic-cyber91/black-orchid-tribe-landing` est l'**archive V1 avec les photos
+  originales HD** (~600 Mo) — ne pas y toucher, ne pas le supprimer. L'historique local lourd
+  correspondant est archivé dans `.git-v1-archive/` (ignoré par git).
+- `.gitignore` exclut les originaux (`assets/*` sauf `assets/web/` et le logo) — le dépôt du site
+  pèse ~12 Mo. Les originaux ne vivent que sur le Mac + l'archive privée GitHub.
+- `gh` (GitHub CLI) n'est pas installé système : binaire téléchargé dans le scratchpad de session,
+  auth device-flow sur le compte **loic-cyber91** (token en keychain, credential helper configuré).
+- **Domaine blackorchidtribe.com** : appartient à l'utilisateur, chez WordPress.com/Automattic,
+  expire le 2026-11-16, pointe encore vers l'ancien WordPress. À brancher sur Pages (CNAME www →
+  loic-cyber91.github.io + fichier CNAME + custom domain dans les settings Pages) quand
+  l'utilisateur aura accès à son compte WordPress.com.
+
 ## Points ouverts
 
 1. Le lien de la « Better Run — Live Session » est l'ancien lien « Feel The Tribe — Live Session »

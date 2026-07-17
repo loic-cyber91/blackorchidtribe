@@ -1,0 +1,248 @@
+{
+  "site": {
+    "pageTitle": "Black Orchid Tribe",
+    "metaDescription": "Black Orchid Tribe — rock, blues, folk. Le projet de NAYAR (anciennement Loïc Videtta). Musique, live, presse, contact."
+  },
+
+  "nav": {
+    "bio": "Bio",
+    "musique": "Musique",
+    "live": "Live",
+    "presse": "Presse",
+    "partenaire": "Partenaire",
+    "socials": "Socials",
+    "contact": "Contact"
+  },
+
+  "socialsNav": {
+    "youtube": "https://www.youtube.com/@wildsidewayoflife",
+    "instagram": "https://www.instagram.com/black_orchid_tribe/",
+    "spotify": "https://open.spotify.com/artist/66hbj1brxd520PBCdFlcyW",
+    "hyperfollow": "https://distrokid.com/hyperfollow/blackorchidtribe1/back-home"
+  },
+
+  "hero": {
+    "photo": "assets/web/hero.jpg",
+    "photoAlt": "NAYAR au chant avec Black Orchid Tribe, tournage du clip Feel The Tribe",
+    "subtitle": "Né d'un gouffre entre le corps et l'âme, **Black Orchid Tribe** est le récit de **NAYAR** — anciennement Loïc Videtta — auteur-compositeur-interprète belgo-italien, qui lui prête sa voix à travers un rock nourri de *folk nomade* et de *blues tribal*."
+  },
+
+  "bio": {
+    "kicker": "Biographie",
+    "title": "Le récit",
+    "blocks": [
+      {
+        "text": "Riffs puissants et désertiques, incantations et silences habités, une folk instinctive et ancestrale, traversée d'un **imaginaire chamanique** nourri de voyages jusqu'aux confins de la **Sibérie**. La voix passe de la sobriété à la saturation — le chant se fait tantôt *mantra scandé*, tantôt *aveu murmuré*.",
+        "images": [
+          { "src": "assets/web/bio_1.jpg", "alt": "NAYAR dans un lac de carrière, bras ouvert sous les éclaboussures" }
+        ]
+      },
+      {
+        "text": "Né en 2021, le projet s'est révélé au fil du chemin : trois singles — *Numb My Beast*, *Better Run*, *Inside My Head* — et l'EP ***Back Home*** (15 novembre 2022), porté par son hymne *Feel The Tribe*, prolongé par trois clips et une live session. Les deux premiers singles prennent forme au **Koko Records**, sous la production de Laurent Eyen. Une presse suit dès les premiers titres — **RTBF, Classic 21, Nostalgie, L'Avenir, Larsen, Musiczine** — et une scène qui ne tarde pas à répondre.",
+        "images": [
+          { "src": "assets/web/bio_2.jpg", "alt": "NAYAR au micro entouré du groupe, tournage du clip Feel The Tribe" }
+        ]
+      },
+      {
+        "text": "Une première fracture survient sur scène, en pleine tournée de promotion de *Back Home* — la mesure de ce qu'il donne, physiquement, à chaque concert. Une seconde, plus grave, impose deux opérations et une longue rééducation : fortement limité dans le mouvement, il redécouvre l'essentiel — **une voix, une guitare, des chansons**, qui n'ont jamais eu besoin du corps entier pour exister pleinement. De cette épreuve naît une vision claire pour 2026-2027 : ***Both Knees***, double album en miroir, *Left* et *Right* — un versant **unplugged et authentique**, un versant **immersif, électrique et ravageur**, reflet fidèle de ce que Black Orchid Tribe délivre sur scène.",
+        "images": [
+          { "src": "assets/web/bio_3.jpg", "alt": "NAYAR allongé sur scène au milieu du public, concert au Lac à Bruxelles" }
+        ]
+      },
+      {
+        "text": "Cette vision se construit patiemment. Repéré par **Black Mirrors** (Napalm Records), il y devient bassiste : une **vingtaine de pays** en tournée internationale, plus d'une **centaine de dates**, un **Decibel Music Award** en 2019 — une expérience de scène qui nourrit encore aujourd'hui la manière dont il pense Black Orchid Tribe. Avant cela déjà, guitariste-compositeur, il avait fondé et mené **Mango Moon** vers deux tremplins remportés et une centaine de scènes belges et françaises — la même énergie de bâtisseur depuis le premier jour. *Les projets évoluent, la vision s'affirme.*",
+        "images": [
+          { "src": "assets/web/bio_4a.jpg", "alt": "À la basse en tournée avec Black Mirrors, noir et blanc" },
+          { "src": "assets/web/bio_4b.jpg", "alt": "Sur scène avec Black Mirrors" }
+        ]
+      }
+    ]
+  },
+
+  "intention": {
+    "kicker": "Note d'intention",
+    "title": "Candidature au Concours Circuit 2026",
+    "logo": "assets/web/cc_logo.jpg",
+    "logoAlt": "Logo du Concours Circuit",
+    "photo": "assets/web/bio_2.jpg",
+    "photoAlt": "NAYAR au micro entouré du groupe, tournage du clip Feel The Tribe",
+    "visual": "assets/web/cc_visu.jpg",
+    "visualAlt": "Concours Circuit 2026 — Apply now, deadline 26/07",
+    "paragraphs": [
+      "Cette candidature s'inscrit dans la **stratégie 2026-2027** de Black Orchid Tribe, pas comme une initiative isolée : celle du **retour à la scène** après une année de revalidation, avec un format libéré de toute contrainte — **seul à la guitare, ou en power duo** — et une œuvre à venir, ***Both Knees***, qui porte cette polyvalence jusque dans sa structure.",
+      "Premier jalon de ce plan : ***Back Home Unplugged***, une session captée en pleine nature dès la fin de l'été — retour aux sources avant le retour de scène, pensé comme le premier chapitre visible d'un récit à suivre. Cette reconstruction ne reste pas en marge : elle devient la matière même de *Both Knees*, documentée et déployée au fil de sa création à travers les réseaux, pour **embarquer la communauté** qui suit NAYAR et Black Orchid Tribe depuis leurs différents chapitres.",
+      "L'accompagnement du **Concours Circuit** — résidence, coaching scénique, structuration — s'inscrit directement dans cette dynamique : **le levier qui peut amplifier l'écho de Both Knees et le message de Black Orchid Tribe** au moment précis où ce plan prend forme."
+    ]
+  },
+
+  "music": {
+    "kicker": "Musique",
+    "title": "Les clips",
+    "tracks": [
+      {
+        "title": "Feel The Tribe",
+        "note": "Clip officiel — hymne de l'EP Back Home",
+        "link": "https://youtu.be/lW-d5VU_hyw",
+        "linkLabel": "Voir le clip",
+        "cover": "assets/web/track_feel_the_tribe.jpg"
+      },
+      {
+        "title": "Numb My Beast",
+        "note": "Clip officiel — Single",
+        "link": "https://youtu.be/o4gPH5wJ_Us",
+        "linkLabel": "Voir le clip",
+        "cover": "assets/web/track_numb_my_beast.jpg"
+      },
+      {
+        "title": "Better Run",
+        "note": "Clip officiel — Single",
+        "link": "https://youtu.be/D0l8l8ZdFzw",
+        "linkLabel": "Voir le clip",
+        "cover": "assets/web/track_better_run.jpg"
+      },
+      {
+        "title": "Better Run — Live Session",
+        "note": "Live session acoustique",
+        "link": "https://www.youtube.com/watch?v=-KjUuR3AufA",
+        "linkLabel": "Voir la live session",
+        "cover": "assets/web/track_better_run_live.jpg"
+      }
+    ],
+    "epTitle": "Back Home",
+    "epSubtitle": "Debut EP — Out now",
+    "epReleaseDate": "Sorti le 15 novembre 2022",
+    "epLink": "https://distrokid.com/hyperfollow/blackorchidtribe1/back-home",
+    "epLinkLabel": "Écouter sur Hyperfollow",
+    "epCover": "assets/web/ep_back_home.jpg",
+    "epCoverAlt": "Pochette de l'EP Back Home",
+    "singleTitle": "Inside My Head",
+    "singleSubtitle": "Latest Single — Out Now",
+    "singleReleaseDate": "Sorti en octobre 2024",
+    "singleLink": "https://open.spotify.com/intl-fr/track/45KUxf6UGboaJALPbU0ouk?si=dda1b8228d9c4804",
+    "singleLinkLabel": "Écouter sur Spotify",
+    "singleCover": "assets/web/single_imh.jpg",
+    "singleCoverAlt": "Pochette du single Inside My Head"
+  },
+
+  "live": {
+    "kicker": "Sur scène",
+    "title": "Le live",
+    "intro": "Sur scène, le projet trouve vite ses marques : le **Baudet'stival**, présent à plusieurs reprises, marque le parcours d'une pierre blanche — **prix de la performance scénique** dès le premier passage, en 2022. Black Orchid Tribe assure aussi la première partie du groupe montréalais **The Damn Truth**, et enchaîne les scènes belges.",
+    "images": [
+      { "src": "assets/web/live_1.jpg", "alt": "NAYAR poing levé sur la grande scène du Baudet'stival" },
+      { "src": "assets/web/live_2.jpg", "alt": "NAYAR penché sur le pied de micro, noir et blanc" },
+      { "src": "assets/web/live_3.jpg", "alt": "Live acoustique en trio, noir et blanc" },
+      { "src": "assets/web/live_4.jpg", "alt": "NAYAR guitare acoustique en plein air" }
+    ],
+    "highlights": [
+      "Baudet'stival (2022, 2024)",
+      "Zik Zak",
+      "Le Lac",
+      "Prince Club",
+      "La Mule",
+      "Fêtes de la musique — Charleroi, Waterloo, Rixensart",
+      "Fête Nationale",
+      "Bad Festival"
+    ]
+  },
+
+  "press": {
+    "kicker": "Presse",
+    "title": "On en parle",
+    "quotes": [
+      {
+        "text": "Ce que Black Orchid Tribe nous rend, c'est une musique libre, sans restriction, sans gêne, sans appréhension.",
+        "source": "RTBF"
+      },
+      {
+        "text": "Un croisement subtil entre une forme de grunge 90's et un blues sioux à la Dead Man teinté de folk des grandes plaines.",
+        "source": "RTBF — Génération 21"
+      },
+      {
+        "text": "La révélation scénique de l'édition 2022 du Baudet'stival.",
+        "source": "Confest Mag"
+      }
+    ],
+    "photo": "assets/web/press.jpg",
+    "photoAlt": "Portrait de NAYAR en cape de fourrure au bord d'un lac de carrière",
+    "links": [
+      { "name": "RTBF", "url": "https://www.rtbf.be/article/generation-21-black-orchid-tribe-10885110" },
+      { "name": "Classic 21", "url": "https://www.bababam.com/classic-21-classic-21/202111242105-generation-21-black-orchid-tribe-24112021" },
+      { "name": "Nostalgie", "url": "https://www.nostalgie-plus.be/podcasts/36213/loic-videtta-de-la-foret-siberienne-au-rock-grunge-avec-black-orchid-tribe" },
+      { "name": "L'Avenir", "url": "https://www.lavenir.net/regions/brabantwallon/lasne/2022/01/28/rock-blues-folk-et-un-esprit-de-tribu-pour-le-nouveau-projet-solo-de-loic-videtta-XYNVFVM2TBAKDIGMNMUV2EPAAU/" },
+      { "name": "Larsen", "url": "https://www.larsenmag.be/fr/clips/1328-black-orchid-tribe-better-run" },
+      { "name": "Musiczine", "url": "https://www.musiczine.net/fr/news/item/86517-black-orchid-tribe-prone-un-meilleur-fonctionnement-des-institutions.html" },
+      { "name": "Concert Monkey", "url": "https://www.concertmonkey.be/news/black-orchid-tribe-dévoile-son-nouveau-single-better-run" },
+      { "name": "Confest Mag", "url": "https://confestmag.be/back-home-sort-ce-15-novembre/" }
+    ]
+  },
+
+  "crafter": {
+    "kicker": "Partenaire",
+    "title": "Crafter",
+    "text": "Sur scène et en studio, NAYAR joue sur les guitares électriques et acoustiques **Crafter** — **ambassadeur de la marque** pour le lancement européen et asiatique de leur modèle électrique *Crema* en 2024.",
+    "link": "https://crafterguitars.com/client/index",
+    "linkLabel": "Découvrir les guitares Crafter",
+    "images": [
+      { "src": "assets/web/crafter_live_1.jpg", "alt": "NAYAR en concert sur la Crafter Crema" },
+      { "src": "assets/web/crafter_live_2.jpg", "alt": "La Crafter Crema en gros plan sur scène" },
+      { "src": "assets/web/crafter_live_3.jpg", "alt": "Solo sur la Crafter Crema, noir et blanc" },
+      { "src": "assets/web/crafter_live_4.jpg", "alt": "NAYAR et sa Crafter sous les lumières" },
+      { "src": "assets/web/crafter_1.jpg", "alt": "NAYAR sur scène au Rockerill avec une guitare Crafter" },
+      { "src": "assets/web/crafter_3.jpg", "alt": "Dans les ateliers de la manufacture Crafter" },
+      { "src": "assets/web/crafter_2.jpg", "alt": "En concert avec la Crafter Crema" }
+    ]
+  },
+
+  "socials": {
+    "kicker": "Socials & Media",
+    "title": "Suivre le projet",
+    "items": [
+      { "name": "YouTube", "icon": "youtube", "url": "https://www.youtube.com/@wildsidewayoflife" },
+      { "name": "Instagram", "icon": "instagram", "url": "https://www.instagram.com/black_orchid_tribe/" },
+      { "name": "Facebook", "icon": "facebook", "url": "https://www.facebook.com/BlackOrchidTribe" },
+      { "name": "Spotify", "icon": "spotify", "url": "https://open.spotify.com/artist/66hbj1brxd520PBCdFlcyW" },
+      { "name": "Hyperfollow", "icon": "hyperfollow", "url": "https://distrokid.com/hyperfollow/blackorchidtribe1/back-home" }
+    ]
+  },
+
+  "contact": {
+    "kicker": "Contact",
+    "title": "Nous écrire",
+    "management": {
+      "label": "Management & Booking",
+      "email": "info.wildsidemusic@gmail.com",
+      "phone": "+32 479 54 29 20"
+    },
+    "technical": {
+      "label": "Technical Crew",
+      "email": "sharpsoundstudio.belgium@gmail.com",
+      "phone": "+32 494 91 30 06"
+    }
+  },
+
+  "outro": {
+    "images": [
+      { "src": "assets/web/outro_1.jpg", "alt": "Tournage du clip Feel The Tribe" },
+      { "src": "assets/web/outro_2.jpg", "alt": "Shooting Wild Side au lac de carrière" },
+      { "src": "assets/web/outro_3.jpg", "alt": "En studio pour Numb My Beast" },
+      { "src": "assets/web/outro_4.jpg", "alt": "Concert au Lac, Bruxelles" },
+      { "src": "assets/web/outro_5.jpg", "alt": "Tournage du clip Better Run" },
+      { "src": "assets/web/outro_6.jpg", "alt": "En tournée avec Black Mirrors" },
+      { "src": "assets/web/outro_7.jpg", "alt": "Sur le tournage du clip Better Run" },
+      { "src": "assets/web/outro_13.jpg", "alt": "Session studio Numb My Beast" },
+      { "src": "assets/web/outro_8.jpg", "alt": "Avec Black Mirrors sur scène" },
+      { "src": "assets/web/outro_11.jpg", "alt": "Tournage du clip Feel The Tribe" },
+      { "src": "assets/web/outro_14.jpg", "alt": "En studio pour Numb My Beast" },
+      { "src": "assets/web/outro_9.jpg", "alt": "En tournée avec Black Mirrors" },
+      { "src": "assets/web/outro_12.jpg", "alt": "Sur le tournage du clip Numb My Beast" },
+      { "src": "assets/web/outro_15.jpg", "alt": "Prise de son studio, Numb My Beast" },
+      { "src": "assets/web/outro_10.jpg", "alt": "Black Mirrors en live" },
+      { "src": "assets/web/outro_16.jpg", "alt": "Au chant en studio, Numb My Beast" }
+    ]
+  },
+
+  "footer": {
+    "text": "Black Orchid Tribe — tous droits réservés."
+  }
+}

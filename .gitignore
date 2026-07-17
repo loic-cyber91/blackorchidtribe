@@ -1,0 +1,11 @@
+.DS_Store
+.claude/
+.git-v1-archive/
+
+# Originaux photos (lourds, hors GitHub — sauvegarde locale/cloud séparée)
+assets/*
+!assets/web
+!assets/web/**
+!assets/photos
+assets/photos/*
+!assets/photos/Logo_BOT_long_blanc.png

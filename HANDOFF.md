@@ -119,10 +119,21 @@ Aussi en V2.2 : « Fête Nationale » (sans « Belge ») dans les chips live ; p
   pèse ~12 Mo. Les originaux ne vivent que sur le Mac + l'archive privée GitHub.
 - `gh` (GitHub CLI) n'est pas installé système : binaire téléchargé dans le scratchpad de session,
   auth device-flow sur le compte **loic-cyber91** (token en keychain, credential helper configuré).
-- **Domaine blackorchidtribe.com** : appartient à l'utilisateur, chez WordPress.com/Automattic,
-  expire le 2026-11-16, pointe encore vers l'ancien WordPress. À brancher sur Pages (CNAME www →
-  loic-cyber91.github.io + fichier CNAME + custom domain dans les settings Pages) quand
-  l'utilisateur aura accès à son compte WordPress.com.
+- **Domaine blackorchidtribe.com : branché le 17/07/2026.** DNS géré chez WordPress.com :
+  4 A `@` → 185.199.108-111.153 + CNAME `www` → loic-cyber91.github.io (faits par l'utilisateur) ;
+  custom domain `www.blackorchidtribe.com` posé côté Pages (commit CNAME dans le repo — ne pas le
+  supprimer). L'apex 301 vers www. Le site est donc sur **https://www.blackorchidtribe.com**.
+  HTTPS actif et forcé depuis le 17/07 au soir (cert Let's Encrypt auto-renouvelé par GitHub ;
+  il a fallu retirer/remettre le cname via l'API Pages pour déclencher l'émission du certificat).
+  Domaine expire le **2026-11-16** (renouvellement chez WordPress.com à rappeler à l'utilisateur).
+  L'ancien site WordPress reste sur blackorchidtribe.wordpress.com.
+- **Sous-domaine candidature (18/07/2026)** : https://candidature.blackorchidtribe.com → page de
+  redirection (dépôt `loic-cyber91/bot-candidature`, un index.html meta-refresh vers
+  /candidature.html) pour un lien lisible sur le profil Court Circuit. CNAME explicite
+  `candidature` → loic-cyber91.github.io chez WordPress (le wildcard ne suffisait pas pour le
+  cert). HTTPS forcé. Astuce retenue : quand un cert Pages ne part pas, le reset complet
+  (DELETE /pages puis POST + cname) débloque là où le simple retrait/re-ajout du cname échoue.
+  À supprimer après la fin de vie de la candidature (dépôt + enregistrement DNS).
 
 ## Points ouverts
 

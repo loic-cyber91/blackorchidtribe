@@ -538,3 +538,17 @@ footer .fine{ font-size: 0.75rem; color: var(--ink-dim); opacity:0.7; }
   color: var(--ink); font-size: 2rem; cursor:pointer; line-height:1;
   background:none; border:none;
 }
+
+/* ---------- Impression / export PDF ----------
+   N'affecte que l'impression, rien à l'écran.
+   1) body::before est en position:fixed pour le fond — Chrome coupe tout après
+      la 1re page quand un élément fixed est présent lors de la pagination print.
+   2) .reveal reste à opacity:0 tant que l'IntersectionObserver ne l'a pas activé
+      en scrollant ; à l'impression ce JS de scroll ne s'est pas déclenché partout,
+      donc des sections resteraient invisibles sans ce correctif. */
+@media print{
+  body::before{ position: absolute; }
+  .topnav{ position: static; }
+  .reveal{ opacity: 1 !important; transform: none !important; transition: none !important; }
+  .lightbox{ display: none !important; }
+}
